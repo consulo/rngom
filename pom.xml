@@ -6,7 +6,7 @@
 
 	<groupId>consulo.internal</groupId>
 	<artifactId>rngom</artifactId>
-	<version>20051226</version>
+	<version>20220804</version>
 
 	<build>
 		<plugins>
